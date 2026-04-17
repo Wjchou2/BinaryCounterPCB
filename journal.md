@@ -5,7 +5,7 @@ I found that the NE555 can generate pulses so I linked that to a SW_Push and wir
 
 One major challenged I faced was figuring out how to make the NE555 monostable and only generate pulses when the switch was pressed. I did some research and looked up diagrams online to help me figure out the wiring.
 
-<img><img ><img><img><img src="Images/schematic.png">
+<img><img ><img><img><img width=500  src="Images/schematic.png">
 # Thursday Apr 16 - 110 min
 Today my goal was to sit down and finish up the PCB. I started by finding the correct footprints for each symbol. I had learned from before that THT means through hole technology, which is easier to soldier to the board, so I made sure to select those. 
 
@@ -16,6 +16,7 @@ I decided to go for a 4x3 LED layout. Originally I wanted everything to be in on
 <img width=500 src="Images/pcbv1.png"/>
 
 After thinking I finished the PCB, I realized i forgot to add a way to supply power, so I added a USB A receptacle and expanded the board a bit to fit it on the top. I then organized and added more silkscreen text, I labeled the 2 buttons to increment and reset the count and added a board name and the github repo.
+
 <img width=500 src="Images/pcbv2.png"/>
 
 
