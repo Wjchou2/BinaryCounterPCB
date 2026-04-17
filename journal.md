@@ -16,6 +16,7 @@ I decided to go for a 4x3 LED layout. Originally I wanted everything to be in on
 <img width=500 src="Images/pcbv1.png"/>
 
 After thinking I finished the PCB, I realized i forgot to add a way to supply power, so I added a USB A receptacle and expanded the board a bit to fit it on the top. I then organized and added more silkscreen text, I labeled the 2 buttons to increment and reset the count and added a board name and the github repo.
+<br>
 
 <img width=500 src="Images/pcbv2.png"/>
 
