@@ -11,6 +11,18 @@
             "id": "d105bc93559d1708",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Screenshot 2026-04-15 at 8.50.57 AM.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2026-04-15 at 8.50.57 AM"
+            }
+          },
+          {
+            "id": "bfb83494ee53beae",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Tuesday Apr 14 - 85 min.md",
@@ -21,7 +33,8 @@
               "title": "Tuesday Apr 14 - 85 min"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,15 +205,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d105bc93559d1708",
+  "active": "bfb83494ee53beae",
   "lastOpenFiles": [
-    "Untitled.base",
+    "README.md",
     "Tuesday Apr 14 - 85 min.md",
+    "journal.md",
+    "Images/Screenshot 2026-04-17 at 8.19.55 AM.png",
+    "Images",
+    "Images/Screenshot 2026-04-15 at 8.50.57 AM.png",
+    "Welcome.md",
+    "Untitled.base",
     "Untitled 1.base",
-    "Screenshot 2026-04-16 at 6.27.16 PM.png",
-    "Screenshot 2026-04-17 at 8.19.55 AM.png",
-    "Screenshot 2026-04-16 at 3.58.57 PM.png",
-    "Screenshot 2026-04-15 at 8.50.57 AM.png",
-    "Welcome.md"
+    "Images/Screenshot 2026-04-16 at 6.27.16 PM.png",
+    "Images/Screenshot 2026-04-16 at 3.58.57 PM.png"
   ]
 }
