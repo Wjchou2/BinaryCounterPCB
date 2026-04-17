@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal.md.md",
+                "file": "journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "journal.md"
+              "title": "journal"
             }
           }
         ],
@@ -208,7 +208,7 @@
   "active": "8fe4d4ee540ba8a2",
   "lastOpenFiles": [
     "README.md",
-    "journal.md.md",
+    "journal.md",
     "journal.md",
     "Images/Screenshot 2026-04-17 at 8.19.55 AM.png",
     "Images",
