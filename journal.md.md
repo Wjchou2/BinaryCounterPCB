@@ -1,3 +1,4 @@
+# Tuesday Apr 14 - 85 min
 Today I wanted to find an interesting project idea to make. I wanted to make something simple but also somewhat useful and interesting, not just an LED decoration. I looked up IC circuits projects and gained some inspiration. I decided to research the datasheets of the NE555 and CD4040 to make a simple binary counter.
  
 I found that the NE555 can generate pulses so I linked that to a SW_Push and wired the output to the input pin of the CD4040 which counts pulses. I then linked an LED to each output Q pin of the CD4040 in order to show the count in binary! I then added another button to the reset pin of the CD4040 to reset count to zero. 
