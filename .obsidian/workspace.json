@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Screenshot 2026-04-15 at 8.50.57 AM.png"
+                "file": "Images/schematic.png"
               },
               "icon": "lucide-image",
-              "title": "Screenshot 2026-04-15 at 8.50.57 AM"
+              "title": "schematic"
             }
           },
           {
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,18 +205,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fe4d4ee540ba8a2",
+  "active": "bfb83494ee53beae",
   "lastOpenFiles": [
     "README.md",
+    "Images/pcbv2.png",
+    "Images/footprints.png",
+    "Images/pcbv1.png",
     "journal.md",
-    "journal.md",
-    "Images/Screenshot 2026-04-17 at 8.19.55 AM.png",
+    "Images/schematic.png",
     "Images",
-    "Images/Screenshot 2026-04-15 at 8.50.57 AM.png",
     "Welcome.md",
     "Untitled.base",
-    "Untitled 1.base",
-    "Images/Screenshot 2026-04-16 at 6.27.16 PM.png",
-    "Images/Screenshot 2026-04-16 at 3.58.57 PM.png"
+    "Untitled 1.base"
   ]
 }
