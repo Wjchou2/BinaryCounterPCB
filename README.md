@@ -8,7 +8,7 @@ To read the binary number, simply add up all the values of the lit up LEDs, and 
 [View KiCad board in KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FWjchou2%2FBinaryCounterPCB%2Ftree%2Fmain%2Fsrc%2Fkicad)
 
 ## Schematic!
-<img width="500" height="523" alt="Screenshot 2026-04-24 at 2 27 20 PM" src="https://github.com/user-attachments/assets/b0318d19-bf53-4e05-b77c-a9748501ff1f" />
+<img width="500" alt="Screenshot 2026-04-24 at 2 27 20 PM" src="https://github.com/user-attachments/assets/b0318d19-bf53-4e05-b77c-a9748501ff1f" />
 
 ## PCB!
 
